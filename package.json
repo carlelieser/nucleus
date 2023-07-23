@@ -1,0 +1,10 @@
+{
+  "name": "nucleus",
+  "version": "1.0.0",
+  "description": "A bittorrent client made with Electron.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Carlos Santos",
+  "license": "MIT"
+}

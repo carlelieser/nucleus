@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "outDir": "./"
+  },
+  "include": [
+    "./forge.config.ts"
+  ],
+  "exclude": []
+}
